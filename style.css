@@ -90,6 +90,11 @@ a:hover {
     right: 0;
 }
 
+.col-sm-4{
+    font-size: 16px;
+    color: white;
+}
+
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
@@ -290,6 +295,10 @@ a:hover {
 .navbar {
     margin-bottom: 0;
     z-index: 1;
+}
+
+#navlink{
+    margin-right: 120px;
 }
 
 .navbar-brand {
@@ -666,6 +675,10 @@ a {
     font-size: 36px;
 }
 
+#link-accueil{
+    margin-right: 30px;
+}
+
 .statement-bloc-text {
     line-height: 26px;
     font-style: italic;
@@ -677,7 +690,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 #txt1{
@@ -695,6 +708,30 @@ p {
 
 #txt4{
     font-size: 22px;
+}
+
+#txt5{
+    font-size: 16px;
+}
+
+#txt6{
+    font-size: 16px;
+}
+
+#txt7{
+    font-size: 16px;
+}
+
+#txt8{
+    font-size: 16px;
+}
+
+.txt9{
+    font-size: 16px;
+}
+
+#txt10{
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
