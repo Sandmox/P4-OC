@@ -680,6 +680,23 @@ p {
     font-size: 11px;
 }
 
+#txt1{
+    font-size: 27px;
+}
+
+#txt2{
+    font-size: 22px;
+    font-style: italic;
+}
+
+#txt3{
+    font-size: 18px;
+}
+
+#txt4{
+    font-size: 22px;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
